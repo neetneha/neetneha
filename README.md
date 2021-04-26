@@ -54,7 +54,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 
 <a href="https://github.com/neetneha">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=neetneha&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderAvi&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetneha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </a>
 
 
