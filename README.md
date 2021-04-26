@@ -63,7 +63,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
   	    <li><b>OS:</b>macOS Big Sur 11.2.1</li>
 	    <li><b>Laptop: </b> Macbook Air 2019</li>
   	    <li><b>Browser: </b> Safari & Chrome</li>
-	    <li><b>Code Editor:</b> VSCode ❤, Jupyter</li>
+	    <li><b>Code Editor:</b> VSCode ❤, Jupyter!!</li>
             <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
 		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
