@@ -7,7 +7,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
   <img align="left" alt="neet_neha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/Neet neha/">
-  <img align="left" alt="Neet neha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Neet neha's Linkdein" width="22px" src="https://www.linkedin.com/in/neet-neha-373756210/" />
 </a>
 <a href="https://github.com/CoderAvi/">
   <img align="left" alt="Coder Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
