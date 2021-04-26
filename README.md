@@ -9,8 +9,8 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <a href="https://www.linkedin.com/in/Neet neha/">
   <img align="left" alt="Neet neha's Linkdein" width="22px" src="https://www.linkedin.com/in/neet-neha-373756210/" />
 </a>
-<a href="https://github.com/CoderAvi/">
-  <img align="left" alt="Coder Avi's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/neetneha/">
+  <img align="left" alt="neet neha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
   <img align="left" alt="CoderAvi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
