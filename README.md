@@ -38,6 +38,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.         
  
 [![Twitter: neetneha](https://img.shields.io/twitter/follow/neet_neha?style=social)](https://twitter.com/neet_neha)
+[![Twitter: CoderAvi](https://img.shields.io/twitter/follow/Coder_Avi?style=social)](https://twitter.com/Coder_Avi)
 [![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
 [![GitHub CoderAvi](https://img.shields.io/github/followers/CoderAvi?label=follow&style=social)](https://github.com/CoderAvi)
