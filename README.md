@@ -37,8 +37,8 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 [![Linkedin: Neet neha](https://img.shields.io/badge/-Neet_neha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Neet-neha-373756210/)](https://www.linkedin.com/in/Neet-neha-373756210/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/neet_neha/) 
 [![GitHub neetneha](https://img.shields.io/github/followers/neetneha?label=follow&style=social)](https://github.com/neetneha)
-[![HackerRank neetneha116](https://img.shields.io/badge/-neet_neha116-blue?style=flat-square&logo=HackerRank&logoColor=blue&link=https://www.hackerrank.com/neetneha116?hr_r=1)]
-(https://www.hackerrank.com/in/neetneha116?hr_r=1/)
+[![HackerRank neetneha116](https://img.shields.io/badge/-neet_neha116-blue?style=flat-square&logo=HackerRank&logoColor=blue&link=https://www.hackerrank.com/neet-neha116?hr_r=1)]
+(https://www.hackerrank.com/in/neet-neha116?hr_r=1/)
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
