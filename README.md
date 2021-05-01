@@ -1,5 +1,5 @@
 ## Bonjour, I'm [Neha Bharti!](http://www.nehabharti.in)👋
-I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
+I am a Student of Computer Science and Engineering💻 who loves programming & exploring more about Artificial Intelligence and Machine Learning!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neetneha&label=Profile views&color=green&style=plastic" alt="neetneha" /> </p>
