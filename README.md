@@ -61,8 +61,6 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 	    <li><b>Laptop: </b> Hp Pavilion G6</li>
   	    <li><b>Browser: </b> Microsoft edge & Chrome</li>
 	    <li><b>Code Editor:</b> VSCode ❤, Jupyter!</li>
-            <li><b>Cleverly using macOS Terminal with node.js, python & git</li>
-		<li><b>Appetize.io for App Testing Purpose</li>
 	</ul>	
 
 <div align="center">
