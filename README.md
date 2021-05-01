@@ -6,8 +6,8 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <a href="https://twitter.com/neet_neha">
   <img align="left" alt="neet neha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/coder-avi/">
-  <img align="left" alt="Coder Avi's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/Neet neha/">
+  <img align="left" alt="Neet neha's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/neetneha/">
   <img align="left" alt="neet neha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
