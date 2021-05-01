@@ -12,7 +12,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <a href="https://github.com/neetneha/">
   <img align="left" alt="neet neha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/20968021/neha-bharti?tab=profile">
+<a href="https://stackoverflow.com/users/15405780/neha-bharti?tab=profile">
   <img align="left" alt="neha-bharti's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.instagram.com/neet_neha/">
@@ -25,7 +25,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 
 - 🔭 I’m currently working on learning the stuff in Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning more about Data Structures & Algorithms.
-- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/20968021/neha-bharti?tab=profile).
+- 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15405780/neha-bharti?tab=profile).
 - 📫 How to reach me: [Twitter - @neet_neha.](https://twitter.com/neet_neha) 
 - 😄 Pronouns: She/Her          
 - ⚡ Fun fact: When i was younger, I wanted to go Hogwarts and learn the magic like Harry Potter.         
