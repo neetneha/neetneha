@@ -28,12 +28,12 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <br/>
 
 
-- 🔭 I’m currently working on my own venture [Shopondoor](https://shopondoor.com/).
-- 🌱 I’m currently learning more about Artificial Intelligence & Algorithms.
+- 🔭 I’m currently working on learning the stuff in ML(Machine Learning) and AI(Artificial Intelligence).
+- 🌱 I’m currently learning more about Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/20968021/neha-bharti?tab=profile).
 - 📫 How to reach me: [Twitter - @neet_neha.](https://twitter.com/neet_neha) 
 - 😄 Pronouns: She/Her          
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.         
+- ⚡ Fun fact: When i was younger, I wanted to go Hogwarts and learn the magic like Harry Potter.         
  
 [![Twitter: neetneha](https://img.shields.io/twitter/follow/neet_neha?style=social)](https://twitter.com/neet_neha)
 [![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
