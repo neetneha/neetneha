@@ -15,14 +15,11 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <a href="https://stackoverflow.com/users/20968021/neha-bharti?tab=profile">
   <img align="left" alt="neha-bharti's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
-<a href="https://www.instagram.com/coder_avi/">
-  <img align="left" alt="Coder Avi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/neet_neha/">
+  <img align="left" alt="neet_neha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/coderavinash/">
   <img align="left" alt="Coder Avi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCrsaXuRFNGTB8LYqwYFlICA">
-  <img align="left" alt="Coder Avi's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <br/>
 <br/>
