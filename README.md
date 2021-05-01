@@ -18,7 +18,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <a href="https://www.instagram.com/neet_neha/">
   <img align="left" alt="neet_neha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>	
-<a href="https://www.facebook.com/profile.php?id=5">
+<a href="https://www.facebook.com/profile.php?id=neha.neet.5">
   <img align="left" alt="Neha Neet's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
