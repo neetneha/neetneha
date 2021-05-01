@@ -18,8 +18,6 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <a href="https://www.instagram.com/neet_neha/">
   <img align="left" alt="neet_neha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/coderavinash/">
-  <img align="left" alt="Coder Avi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br/>
 <br/>
@@ -33,8 +31,8 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 - ⚡ Fun fact: When i was younger, I wanted to go Hogwarts and learn the magic like Harry Potter.         
  
 [![Twitter: neetneha](https://img.shields.io/twitter/follow/neet_neha?style=social)](https://twitter.com/neet_neha)
-[![Linkedin: CoderAvi](https://img.shields.io/badge/-coderavi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coder-avi/)](https://www.linkedin.com/in/coder-avi/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/coder_avi/) 
+[![Linkedin: Neet neha](https://img.shields.io/badge/-Neet neha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Neet neha/)](https://www.linkedin.com/in/Neet neha/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/neet_neha/) 
 [![GitHub neetneha](https://img.shields.io/github/followers/neetneha?label=follow&style=social)](https://github.com/neetneha)
 [![website](https://img.shields.io/badge/Portfolio-coderavi.tech-2648ff?style=flat-square&logo=google-chrome)](http://coderavi.tech/)
 
