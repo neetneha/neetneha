@@ -56,7 +56,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 	    <li><b>Laptop: </b> Hp Pavilion G6</li>
   	    <li><b>Browser: </b> Microsoft edge & Chrome</li>
 	    <li><b>Code Editor:</b> VSCode ❤, Jupyter!</li>
-	<li><b>Sometime using command prompt terminal, git</li>
+	<li><b>Sometime using command prompt terminal with git</li>
 	</ul>	
 
 <div align="center">
