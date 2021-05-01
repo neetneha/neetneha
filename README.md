@@ -12,8 +12,8 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <a href="https://github.com/neetneha/">
   <img align="left" alt="neet neha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15208961/coderavi?tab=profile">
-  <img align="left" alt="CoderAvi's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+<a href="https://stackoverflow.com/users/20968021/neha-bharti?tab=profile">
+  <img align="left" alt="neha-bharti's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://www.instagram.com/coder_avi/">
   <img align="left" alt="Coder Avi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
