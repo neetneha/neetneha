@@ -26,6 +26,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 - 🔭 I’m currently working on learning the stuff in Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning more about Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15405780/neha-bharti?tab=profile).
+- 💬 Ask me about Frontend or any tech related stuff.
 - 📫 How to reach me: [Twitter - @neet_neha.](https://twitter.com/neet_neha) 
 - 😄 Pronouns: She/Her          
 - ⚡ Fun fact: When i was younger, I wanted to go Hogwarts and learn the magic like Harry Potter.         
