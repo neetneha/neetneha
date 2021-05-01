@@ -28,7 +28,7 @@ I am a tech enthusiast 💻 who loves programming & exploring more about Artific
 <br/>
 
 
-- 🔭 I’m currently working on learning the stuff in ML(Machine Learning) and AI(Artificial Intelligence).
+- 🔭 I’m currently working on learning the stuff in Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning more about Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/20968021/neha-bharti?tab=profile).
 - 📫 How to reach me: [Twitter - @neet_neha.](https://twitter.com/neet_neha) 
