@@ -48,7 +48,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 
 <a href="https://github.com/neetneha">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=neetneha&show_icons=true&hide_border=true" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetneha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
+<img height="148em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neetneha&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </a>
 
 
