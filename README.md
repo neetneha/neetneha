@@ -25,7 +25,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <br/>
 
 
-- 🔭 I’m currently working on learning the stuff in Machine Learning and Artificial Intel
+- 🔭 I’m currently working on learning the stuff in Machine Learning and Artificial Intell
 - 🌱 I’m currently learning more about Data Structures & Algorithms.
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15405780/neha-bharti?tab=profile).
 - 💬 Ask me about Frontend or any tech related stuff.
