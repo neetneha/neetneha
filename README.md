@@ -61,7 +61,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 	<li><b>Sometime using command prompt terminal with git</li>
 	</ul>	
 
-<div align="center"
+<div align="center">
 
 ### Show some ❤️ by starring some of the repositories
 
