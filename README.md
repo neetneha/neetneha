@@ -63,7 +63,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!!
+### Show some ❤️ by starring some of the repositories
 
 </div>
 
