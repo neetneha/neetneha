@@ -13,7 +13,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
   <img align="left" alt="neet neha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://stackoverflow.com/users/15405780/neha-bharti?tab=profile">
-  <img align="left" alt="neha-bharti's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  <img align="left" alt="neha-bharti's Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" 
 </a>
 <a href="https://www.instagram.com/neet_neha/">
   <img align="left" alt="neet_neha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
