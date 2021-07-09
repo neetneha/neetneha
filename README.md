@@ -31,7 +31,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 - 💬 Ask me about Frontend or any tech related stuff.
 - 📫 How to reach me: [Twitter - @neet_neha.](https://twitter.com/neet_neha) 
 - 😄 Pronouns: She/Her          
-- ⚡ Fun fact: When i was younger..., I wanted to go Hogwarts and learn the mag like Harry Potter....!!!!         
+- ⚡ Fun fact: When i was younger..., I wanted to go Hogwarts and learn the magi like Harry Potter....!!!!         
  
 [![Twitter: neetneha](https://img.shields.io/twitter/follow/neet_neha?style=social)](https://twitter.com/neet_neha)
 [![Linkedin: Neet neha](https://img.shields.io/badge/-neha_bharti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neha-bharti-373756210/)](https://www.linkedin.com/in/neha-bharti-373756210/)
