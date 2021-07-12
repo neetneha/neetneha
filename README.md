@@ -30,7 +30,7 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 - 👯 I’m looking to collaborate on [Stackoverflow](https://stackoverflow.com/users/15405780/neha-bharti?tab=profile).
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: [Twitter - @neet_neha.](https://twitter.com/neet_neha) 
-- 😄 Pronouns: She/Her/Hers.
+- 👩🏻 Pronouns: She/Her/Hers.
 - ⚡ Fun fact: When i was younger..., I wanted to go Hogwarts and learn the magic like Harry Potter....!!!!         
  
 [![Twitter: neetneha](https://img.shields.io/twitter/follow/neet_neha?style=social)](https://twitter.com/neet_neha)
