@@ -1,4 +1,4 @@
-## Bonjour, I'm [Neha Bharti!](http://www.nehabharti.in)👋
+## Bonjour, I'm [Neha Bharti!]👋
 I am a Student of Computer Science and Engineering💻 who loves programming & exploring more about Artificial Intelligence and Machine Learning!
 
 
