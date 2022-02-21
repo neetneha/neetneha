@@ -18,9 +18,6 @@ I am a Student of Computer Science and Engineering💻 who loves programming & e
 <a href="https://www.instagram.com/neet_neha/">
   <img align="left" alt="neet_neha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.hackerrank.com/neetneha116/">
-<img align=left" alt="neetneha's HackerRank" width="22px" src="https://cdn.jsdeliver.net/npm/simple-icons@v3/icons/hackerrank.svg" />
- </a>
 <br/>
 <br/>
 
